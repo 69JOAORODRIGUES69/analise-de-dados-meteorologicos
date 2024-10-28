@@ -1,0 +1,25 @@
+cidade,estado,data,temperatura,umidade
+Florianopolis,SC,2024-10-01,25,60
+São Paulo,SP,2024-10-01,30,55
+Rio de Janeiro,RJ,2024-10-01,28,70
+Florianopolis,SC,2024-10-02,26,58
+São Paulo,SP,2024-10-02,29,57
+Rio de Janeiro,RJ,2024-10-02,27,68
+Florianopolis,SC,2024-10-03,24,65
+São Paulo,SP,2024-10-03,31,52
+Rio de Janeiro,RJ,2024-10-03,29,73
+Florianopolis,SC,2024-10-04,27,63
+São Paulo,SP,2024-10-04,28,56
+Rio de Janeiro,RJ,2024-10-04,30,71
+Florianopolis,SC,2024-10-05,26,59
+São Paulo,SP,2024-10-05,32,54
+Rio de Janeiro,RJ,2024-10-05,31,69
+Florianopolis,SC,2024-10-06,23,66
+São Paulo,SP,2024-10-06,29,60
+Rio de Janeiro,RJ,2024-10-06,28,72
+Florianopolis,SC,2024-10-07,25,62
+São Paulo,SP,2024-10-07,30,58
+Rio de Janeiro,RJ,2024-10-07,29,70
+Florianopolis,SC,2024-10-08,26,61
+São Paulo,SP,2024-10-08,31,55
+Rio de Janeiro,RJ,2024-10-08,32,68
